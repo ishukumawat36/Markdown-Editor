@@ -19,7 +19,7 @@ Start by cloning the repository to your local machine.
 
 bash
 Copy
-git clone https://github.com/your-username/markdown-live-preview.git
+git clone https://github.com/ishukumawat36/Markdown-Editor.git
 cd markdown-live-preview
 2. Set up the client (React)
 Navigate to the client folder, install the necessary dependencies, and start the development server.
