@@ -1,68 +1,69 @@
-Markdown Live Preview &nbsp;
+Markdown Live Preview </br>
 A React-based live Markdown editor with a split-screen layout. The editor allows users to type Markdown syntax in real-time, and the right side shows a live HTML preview of the input. This project consists of both client-side and server-side code in a single repository.
 
-Features &nbsp;
-Real-Time Preview: As you type Markdown, the right panel displays the live HTML preview.
-Responsive Design: Optimized for mobile, tablet, and desktop views.
-Fixed Layout: Editor and preview sections have a fixed width and height, ensuring a consistent design.
-Simple Markdown to HTML Conversion: Uses a basic conversion method for previewing Markdown.
-Technologies Used
-React for building the user interface.
-CSS for styling.
-Node.js / Express for the server-side functionality.
-Markdown Syntax for input.
+Features </br>
+Real-Time Preview: As you type Markdown, the right panel displays the live HTML preview.</br>
+Responsive Design: Optimized for mobile, tablet, and desktop views.</br>
+Fixed Layout: Editor and preview sections have a fixed width and height, ensuring a consistent design.</br>
+Simple Markdown to HTML Conversion: Uses a basic conversion method for previewing Markdown.</br>
 
-Preview &nbsp;
-Here’s a preview of how the application looks: &nbsp;
-<img width="1189" alt="image" src="https://github.com/user-attachments/assets/3fd9fcbe-83c8-48c7-90d5-b26899ff3b42" />
+Preview</br>
+Here’s a preview of how the application looks: </br>
+![alt text](image.png)
 
+Technologies Used</br>
+React for building the user interface.</br>
+CSS for styling.</br>
+Node.js / Express for the server-side functionality.</br>
+Markdown Syntax for input.</br>
 
-Getting Started &nbsp;
+Getting Started</br>
 To run the project locally, follow the steps below for setting up both the client (React) and server (Express):
 
-1. Clone the repository &nbsp;
+1. Clone the repository</br>
 Start by cloning the repository to your local machine.
 
-bash &nbsp;
-Copy &nbsp;
-git clone https://github.com/ishukumawat36/Markdown-Editor.git &nbsp;
-cd markdown-live-preview &nbsp;
-2. Set up the client (React) &nbsp;
+bash</br>
+Copy</br>
+git clone https://github.com/your-username/markdown-live-preview.git</br>
+cd markdown-live-preview</br>
+
+2. Set up the client (React)</br>
 Navigate to the client folder, install the necessary dependencies, and start the development server.
 
-bash &nbsp;
-Copy &nbsp;
-cd client &nbsp;
-npm install &nbsp;
-npm start &nbsp;
-The React app will be available at http://localhost:3000.
+bash</br>
+Copy</br>
+cd client</br>
+npm install</br>
+npm start</br>
+The React app will be available at http://localhost:3000.</br>
 
-3. Set up the server (Express) &nbsp;
+3. Set up the server (Express)</br>
 In a new terminal window, navigate to the server folder, install the necessary dependencies, and start the server.
 
-bash &nbsp;
-Copy &nbsp;
-cd server &nbsp;
-npm install &nbsp;
-npm start &nbsp;
-The server will be running on http://localhost:5000.
+bash</br>
+Copy</br>
+cd server</br>
+npm install</br>
+npm start</br>
+The server will be running on http://localhost:5000.</br>
 
-4. View the application &nbsp;
-The React app will interact with the server running on http://localhost:5000 to convert Markdown to HTML.
-Open your browser and navigate to http://localhost:3000 to view the live Markdown editor and preview.
-Contributing &nbsp;
-If you'd like to contribute to this project:
+4. View the application</br>
+The React app will interact with the server running on http://localhost:5000 to convert Markdown to HTML.</br>
+Open your browser and navigate to http://localhost:3000 to view the live Markdown editor and preview.</br>
+Contributing</br>
+If you'd like to contribute to this project:</br>
 
-Fork the repository. &nbsp;
-Create a new branch (git checkout -b feature-name). &nbsp;
-Make your changes and commit them (git commit -am 'Add new feature'). &nbsp;
-Push your branch (git push origin feature-name). &nbsp;
-Create a new Pull Request. &nbsp;
-License &nbsp;
-This project is licensed under the MIT License. &nbsp;
+Fork the repository.</br>
+Create a new branch (git checkout -b feature-name).</br>
+Make your changes and commit them (git commit -am 'Add new feature').</br>
+Push your branch (git push origin feature-name).</br>
+Create a new Pull Request.</br>
+License</br>
+This project is licensed under the MIT License.</br>
 
-Notes: &nbsp;
-Make sure you have Node.js and npm installed on your system.
-The project includes both the client-side React app and server-side Express app in a single repository.
-You’ll need to run both the client and server for the application to function properly.
-This version of the README clearly explains how to run both the client (React app) and server (Express API) locally, and it provides the necessary instructions for setting up the project.
+Notes:</br>
+Make sure you have Node.js and npm installed on your system.</br>
+The project includes both the client-side React app and server-side Express app in a single repository.</br>
+You’ll need to run both the client and server for the application to function properly.</br>
+This version of the README clearly explains how to run both the client (React app) and server (Express API) locally, and it provides the necessary instructions for setting up the project.</br>
