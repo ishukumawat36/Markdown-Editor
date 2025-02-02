@@ -11,6 +11,11 @@ React for building the user interface.
 CSS for styling.
 Node.js / Express for the server-side functionality.
 Markdown Syntax for input.
+
+Preview
+Here’s a preview of how the application looks:
+<img width="995" alt="image" src="https://github.com/user-attachments/assets/1fa6bc37-87d3-4c82-a9e7-156e52fbc44a" />
+
 Getting Started
 To run the project locally, follow the steps below for setting up both the client (React) and server (Express):
 
