@@ -11,7 +11,7 @@ const App = () => {
 
   useEffect(() => {
     // Markdown-to-HTML conversion (can be done here or via server-side)
-    setHtml(markdown); // Simple example: set markdown directly as HTML
+    setHtml(markdown);
   }, [markdown]);
 
   return (
