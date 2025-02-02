@@ -14,7 +14,8 @@ Markdown Syntax for input.
 
 Preview
 Here’s a preview of how the application looks:
-<img width="995" alt="image" src="https://github.com/user-attachments/assets/1fa6bc37-87d3-4c82-a9e7-156e52fbc44a" />
+<img width="1189" alt="image" src="https://github.com/user-attachments/assets/3fd9fcbe-83c8-48c7-90d5-b26899ff3b42" />
+
 
 Getting Started
 To run the project locally, follow the steps below for setting up both the client (React) and server (Express):
